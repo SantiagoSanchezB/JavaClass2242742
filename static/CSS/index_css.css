@@ -1,21 +1,44 @@
 *{
     font-family: sans-serif;
+    text-decoration: none;
 }
 
 select{
     font-size: 18px;
 }
 
-div div{
-    color: blue;
-    background-color: bisque;
+div div {
+    color: #52be80;
+    background-color:#52be80 ;
     font-size: 20px;
     float: left;
     border: solid;
     margin: 20px;
     padding: 15px;
+    border-radius: 20px;
 }
 
-a link{
+div div:hover {
+    color: #196f3d ;
+    background-color:  #196f3d ;
+}
+
+a {
+    color: white;
+}
+
+a:visited{
     text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    text-decoration: none;
+    color:  #cacfd2;
+}
+
+.txtInfo{
+    color: gray;
+    display: inline-block;
+    width: 100vh;
 }
