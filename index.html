@@ -4,12 +4,12 @@
     <meta charset="UTF-8">
     <title>Ejercicio Repaso</title>
     <link rel="stylesheet" href="static/CSS/index_css.css" type="text/css"/>
-    <script src="static/JS/index_js.js" type="text/javascript"></script>
+    <script src="index_js.js" type="text/javascript"></script>
 </head>
 <body>
     <h1>Seleccione País</h1>
     <form action="">
-        <select onchange="mostrarCiudades(this.value)">
+        <select onchange="mostrarSugerencia(this.value)">
             <option value="nada">Seleccione</option>
             <option value="Espania">España</option>
             <option value="Mexico">Mexicó</option>
@@ -17,7 +17,8 @@
             <option value="Colombia">Colombia</option>
         </select>
     </form><br>
-    <p>Información de lo que hace Ajax<span style="color:brown;" id="txtInformacion"></span></p>
+    <p><span style="color:brown;" id="txtInformacion"></span></p>
+    <p><span class="txtInfo" id="txtInformacionPais"></span></p>
     <div id="listaCiudades"></div>
 </body>
 </html>
