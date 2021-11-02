@@ -28,7 +28,7 @@
           "Puebla",
           "Juárez",
           "Tijuana",
-          "León",
+          "León_(México)",
           "Zapopan"
         ]
       },
@@ -51,7 +51,7 @@
         "nombre": "Colombia",
         "capital": "Bogotá",
         "InfoCiudad": "Colombia es un país del extremo norte de Sudamérica. Su paisaje cuenta con bosques tropicales, las montañas de los Andes y varias plantaciones de café. En Bogotá, su capital a gran altura, el distrito Zona Rosa es famoso por sus restaurantes y tiendas. Cartagena, en la costa del Caribe, tiene una Ciudad Antigua colonial amurallada, un castillo del siglo XVI y arrecifes de coral cercanos",
-        "textoCapital": "Bogotá, oficialmente Bogotá, Distrito Capital, abreviado Bogotá, D. C. es la… ",
+        "textoCapital": "Bogotá, oficialmente Bogotá, Distrito Capital, abreviado Bogotá, D. C. es la",
         "ciudadImportante": [
           "Bogotá",
           "Medellín",
@@ -59,7 +59,7 @@
           "Barranquilla",
           "Cartagena",
           "Cúcuta",
-          "Soledad",
+          "Soledad_(Atlántico)",
           "Ibagué"
         ]
       }
