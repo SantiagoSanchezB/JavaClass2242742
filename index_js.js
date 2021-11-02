@@ -63,7 +63,7 @@ function mostrarCiudades(arrayCiudades){
     var contenidoAMostrar = "";
     for (var i = 0; i < arrayCiudades.length; i++){
         contenidoAMostrar = contenidoAMostrar + '<div id="ciudad' + i + '">';
-        contenidoAMostrar += '<a href="https://es.wikipedia.org/wiki/'+ arrayCiudades[i] + '">' + arrayCiudades[i] + '</a></div>';
+        contenidoAMostrar += '<a target="_blank" href="https://es.wikipedia.org/wiki/'+ arrayCiudades[i] + '">' + arrayCiudades[i] + '</a></div>';
     }
     if (contenidoAMostrar) {
         nodoMostrarResultados.innerHTML = contenidoAMostrar;
