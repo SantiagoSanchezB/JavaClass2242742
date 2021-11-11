@@ -1,0 +1,147 @@
+{
+    "platosTipicos": {
+        "pais": [
+            {
+                "nombre" : "España",
+                "Ciudad" : {
+                    "Madrid" : {
+                        "nombrePlato": "Potaje de garbanzos",
+                        "imagen" : "static/images/España/PotajeDeGrabanzos_Madrid.jpg"
+                    } ,
+                    "Barcelona": {
+                        "nombrePlato" : "Escalivada",
+                        "imagen" : "static/images/España/Escalivada_Barcelona.jpg"
+                    },
+                    "Valencia" : {
+                        "nombrePlato" : "Fideua",
+                        "imagen" : "static/images/España/Fideua_Valenciana.jpg"
+                    },
+                    "Sevilla" : {
+                        "nombrePlato" : "Gazpacho",
+                        "imagen" : "static/images/España/Gazpacho_Sevilla.jpg"
+                    },
+                    "Zaragoza": {
+                        "nombrePlato" : "Ternasco de Aragón",
+                        "imagen" : "static/images/España/Ternasco_Zaragoza.jpg"
+                    },
+                    "Málaga" : {
+                        "nombrePlato" : "Porra antequerana",
+                        "imagen" : "static/images/España/Porra_Malaga.jpg"
+                    },
+                    "Murcia" : {
+                        "nombrePlato" : "Caldero del Mar Menor",
+                        "imagen" : "static/images/España/Caldero_Murcia.jpg"
+                    }
+                }
+            },
+            {
+                "nombre" : "Mexico",
+                "Ciudad" : {
+                    "México D.F." : {
+                        "nombrePlato": "Huaraches",
+                        "imagen" : "static/images/Mexico/Huaraches_CiudadDeMexico.jpg"
+                    },
+                    "Ecatepec" : {
+                        "nombrePlato": "Pancita",
+                        "imagen" : "static/images/Mexico/Pancita_Ecatepec.jpg"
+                    },
+                    "Guadalajara" : {
+                        "nombrePlato": "Torta Ahogada",
+                        "imagen" : "static/images/Mexico/TortaAhogada_Guadalajara.png"
+                    },
+                    "Puebla" : {
+                        "nombrePlato": "Chiles en Nogada",
+                        "imagen" : "static/images/Mexico/ChilesEnNogada_Puebla.jpg"
+                    },
+                    "Juárez" : {
+                        "nombrePlato": "Gorditas",
+                        "imagen" : "static/images/Mexico/Gorditas_Juarez.jpg"
+                    },
+                    "Tijuana" : {
+                        "nombrePlato": "Taco Tijuana",
+                        "imagen" : "static/images/Mexico/Taco_Tijuana.jpg"
+                    },
+                    "León_(México)" : {
+                        "nombrePlato": "Guacamaya",
+                        "imagen" : "static/images/Mexico/Guacamaya_Leon.jpg"
+                    },
+                    "Zapopan" : {
+                        "nombrePlato": "Pozole",
+                        "imagen" : "static/images/Mexico/Pozole_Zapopan.jpeg"
+                    }
+                }
+                
+            },
+            {
+                "nombre" : "Argentina",
+                "Ciudad" : {
+                    "Buenos Aires" : {
+                        "nombrePlato": "Choripan",
+                        "imagen" : "static/images/Argentina/Choripan_BuenosAires.png"
+                    },
+                    "Córdoba" : {
+                        "nombrePlato": "Salmonejo Rojo",
+                        "imagen" : "static/images/Argentina/Salmonejo_Cordoba.jpg"
+                    },
+                    "Rosario" : {
+                        "nombrePlato": "Bagna Cauda",
+                        "imagen" : "static/images/Argentina/Bagna_Rosario.jpeg"
+                    },
+                    "La Plata" : {
+                        "nombrePlato": "Milanesa Napolitana",
+                        "imagen" : "static/images/Argentina/Milanesa_Plata.jpg"
+                    },
+                    "Mar del Plata" : {
+                        "nombrePlato": "Calamar con mojos canarios",
+                        "imagen" : "static/images/Argentina/Calamares_MarPlata.jpg"
+                    },
+                    "San Miguel de Tucumán" : {
+                        "nombrePlato": "Tortilla al Rescoldo",
+                        "imagen" : "static/images/Argentina/Tortilla_SanMiguel.jpg"
+                    },
+                    "Ciudad de Salta" : {
+                        "nombrePlato": "Locro",
+                        "imagen" : "static/images/Argentina/Locro_CiudadSalta.jpeg"
+                    }
+                }
+            },
+            {
+                "nombre" : "Colombia",
+                "Ciudad" : {
+                    "Bogotá" : {
+                        "nombrePlato": "Ajiaco",
+                        "imagen" : "static/images/Colombia/Ajiaco_Bogota.jpg"
+                    },
+                    "Medellín": {
+                        "nombrePlato": "Bandeja Paisa",
+                        "imagen" : "static/images/Colombia/BandejaPaisa_Medellin.jpeg"
+                    },
+                    "Cali": {
+                        "nombrePlato": "Arroz Atollado",
+                        "imagen" : "static/images/Colombia/ArrozAtollado_Cali.jpg"
+                    },
+                    "Barranquilla": {
+                        "nombrePlato": "Mojarra Frita",
+                        "imagen" : "static/images/Colombia/Mojarrafrita_Barranquilla.jpg"
+                    },
+                    "Cartagena": {
+                        "nombrePlato": "Cazuela de Mariscos",
+                        "imagen" : "static/images/Colombia/Cazuela_Cartagena.jpg"
+                    },
+                    "Cúcuta": {
+                        "nombrePlato": "Mute",
+                        "imagen" : "static/images/Colombia/Mute_Cucuta.jpeg"
+                    },
+                    "Soledad_(Atlántico)": {
+                        "nombrePlato": "Sancocho de bocachico",
+                        "imagen" : "static/images/Colombia/Sancocho_Soledad.png"
+                    },
+                    "Ibagué": {
+                        "nombrePlato": "Cuchuco",
+                        "imagen" : "static/images/Colombia/Cuchuco_Ibague.jpg"
+                    }
+                }
+            }
+        ]
+    }
+}
